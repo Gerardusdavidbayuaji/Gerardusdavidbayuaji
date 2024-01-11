@@ -1,6 +1,6 @@
 **Hi there!**
 
-I’m David. a junior software engineer with passion for frontend programming and GIS programming. I’m currently learning typescript and python.
+I’m David. a junior software engineer with passion for frontend programming and GIS programming. I’m currently learning typescript 80% and python 20%.
 
 If you want to find out more about my projects and what I'm currently working on, please check out some of my pinned projects below 👇
 
