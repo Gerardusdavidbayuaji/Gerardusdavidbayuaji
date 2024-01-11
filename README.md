@@ -7,14 +7,14 @@ If you want to find out more about my projects and what I'm currently working on
 In my spare time, I also write 📝 articles about web-development, spatial analyst and UIUX (normally it is about 1-2 hours in the morning).
 
 ### Getting in touch
-<a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
+<a href="https://www.linkedin.com/in/gerardusdavidbayuaji/" title="Follow me on LinkedIn">
   <img
     width="24"
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   /></a>
 &nbsp;
-<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
+<a href="https://gerardusdavid.medium.com/" title="Follow me on Medium">
   <img
     width="24"
     alt="Follow me on Medium"
