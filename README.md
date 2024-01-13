@@ -1,4 +1,4 @@
-## Hello, my name is Gerardus David. Nice to meet you.
+## Hello, my name is Gerardus David. Nice to meet you
 - I'm a Junior Software Engineer with passion for Frontend programming and GIS programming
 - I’m currently learning React.JS and Next.JS
 - Let's discuss about Frontend Developer, GIS Developer, Smart City and Spatial Analyst
