@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-OpenLayers-61DAFB?logo=openlayers&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Leaflet-000000?logo=leaflet&logoColor=white&style=for-the-badge">
 
-<b>💻 GIS</b>
+<b>🌏 GIS</b>
 </br>
 </br>
 <img src="https://img.shields.io/badge/-ArcGIS-E34F26?logo=arcgis&logoColor=white&style=for-the-badge">
