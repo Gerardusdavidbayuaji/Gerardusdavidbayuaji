@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-python-000000?logo=python&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-SQL-000000?logo=logoColor=white&style=for-the-badge">
 
-<b>💻 Technologies</b>
+<b>💻 Technologies and Frameworks</b>
 </br>
 </br>
 <img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=white&style=for-the-badge">
