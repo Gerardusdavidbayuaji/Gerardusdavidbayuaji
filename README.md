@@ -1,22 +1,11 @@
-### Hi there!
+## Hello, my name is Gerardus David. Nice to meet you.
+- I'm a Junior Software Engineer with passion for Frontend programming and GIS programming
+- I’m currently learning React.JS and Next.JS
+- Let's discuss about Frontend Developer, GIS Developer, Smart City and Spatial Analyst
 
-I’m David, a Junior Software Engineer with passion for Frontend programming and GIS programming. I’m currently learning Typescript 80% and Python 20%.
+## Let's Connect!
+[![Linkedin Badge](https://img.shields.io/badge/-Gerardus_David_Ady_P.B-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravielze/)](https://www.linkedin.com/in/girvin-junod)
 
-If you want to find out more about my projects and what I'm currently working on, please check out some of my pinned projects below.
+[![Gmail Badge](https://img.shields.io/badge/-gerardusdavidbayu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gerardusdavidbayu@gmail.com)](mailto:gerardusdavidbayu@gmail.com)
 
-In my spare time, I also write 📝 [articles](https://gerardusdavid.medium.com/) about web-development, UIUX and spatial analyst (normally it is about 1-2 hours in the morning).
-
-### Getting in touch
-<a href="https://www.linkedin.com/in/gerardusdavidbayuaji/" title="Follow me on LinkedIn">
-  <img
-    width="24"
-    alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
-  /></a>
-&nbsp;
-<a href="https://gerardusdavid.medium.com/" title="Follow me on Medium">
-  <img
-    width="24"
-    alt="Follow me on Medium"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
-  /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Gerardus_David-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravielze/)](https://gerardusdavid.medium.com/)
