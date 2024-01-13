@@ -8,7 +8,7 @@
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gerardusdavidbayu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gerardusdavidbayu@gmail.com)](mailto:gerardusdavidbayu@gmail.com)
 &nbsp;
-[![Medium Badge](https://img.shields.io/badge/-Gerardus_David-black?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ravielze/](https://gerardusdavid.medium.com/))](https://gerardusdavid.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-Gerardus_David-black?style=flat&logo=Medium&logoColor=white&link=[https://www.linkedin.com/in/ravielze/](https://gerardusdavid.medium.com/))](https://gerardusdavid.medium.com/)
 
 ## Languages, Technologies, and Frameworks
 <b>👩‍💻 Languages</b>
