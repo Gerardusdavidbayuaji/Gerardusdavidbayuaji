@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-SQL-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-SQL-3776AB?logo=logoColor=white&style=for-the-badge">
 
 <b>💻 Technologies</b>
 </br>
