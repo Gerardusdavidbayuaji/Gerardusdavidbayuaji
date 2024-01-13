@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=Google%20Cloud&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-OpenLayers-61DAFB?logo=openlayers&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Leaflet-000000?logo=leaflet&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Figma-1572B6?logo=figma&logoColor=white&style=for-the-badge">
 
 <b>🌏 GIS</b>
 </br>
