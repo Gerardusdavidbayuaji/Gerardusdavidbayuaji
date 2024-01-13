@@ -40,7 +40,7 @@
 <b>🌏 GIS</b>
 </br>
 </br>
-<img src="https://img.shields.io/badge/-ArcGIS-E34F26?logo=arcgis&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-ArcGIS-1572B6?logo=arcgis&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-QGIS-1572B6?logo=qgis&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Google%20Earth%20Engine-06B6D4?logo=googleearthengine&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-GeoServer-7952B3?logo=logoColor=white&style=for-the-badge">
