@@ -1,14 +1,14 @@
 ## Hello, my name is Gerardus David. Nice to meet you
 - I'm a Junior Software Engineer with passion for Frontend programming and GIS programming
 - I’m currently learning React.JS and Next.JS
+- I also write [articles](https://www.linkedin.com/in/gerardusdavidbayuaji/) about web-development
 - Let's discuss about Frontend Developer, GIS Developer, Smart City and Spatial Analyst
 
 ## Let's Connect!
 [![Gmail Badge](https://img.shields.io/badge/-gerardusdavidbayu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gerardusdavidbayu@gmail.com)](mailto:gerardusdavidbayu@gmail.com)
 &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Gerardus_David_Ady_P.B-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardusdavidbayuaji/)](https://www.linkedin.com/in/gerardusdavidbayuaji/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gerardus_David_Ady_P.B-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardusdavidbayuaji/)]()
 &nbsp;
-[![Medium Badge](https://img.shields.io/badge/-Gerardus_David-black?style=flat&logo=Medium&logoColor=white&link=[https://www.linkedin.com/in/ravielze/](https://gerardusdavid.medium.com/))](https://gerardusdavid.medium.com/)
 
 ## Languages, Technologies, Frameworks and GIS 
 <b>👩‍💻 Languages</b>
@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?logo=tailwindcss&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Node.js-000000?logo=nodedotjs&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-React.Js-000000?logo=react&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Next.Js-000000?logo=Next.js&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge">
