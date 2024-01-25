@@ -45,3 +45,7 @@
 <img src="https://img.shields.io/badge/-Google%20Earth%20Engine-000000?logo=googleearthengine&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-GeoServer-000000?logo=logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-PostGIS-000000?logo=logoColor=white&style=for-the-badge">
+
+
+## Github Stats 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardusdavidbayuaji&layout=compact&theme=tokyonight)
