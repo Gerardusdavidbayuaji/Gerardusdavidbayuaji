@@ -48,4 +48,4 @@
 
 
 ## Github Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardusdavidbayuaji&layout=compact&theme=tokyonight)
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardusdavidbayuaji&layout=compact&theme=tokyonight)
