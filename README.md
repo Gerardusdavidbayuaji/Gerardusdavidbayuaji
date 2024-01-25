@@ -11,7 +11,7 @@
 &nbsp;
 
 ## Languages, Technologies, Frameworks and GIS 
-<b>👩‍💻 Languages</b>
+<b> Languages</b>
 </br>
 </br>
 <img src="https://img.shields.io/badge/-Typescript-000000?logo=typescript&logoColor=white&style=for-the-badge">
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-python-000000?logo=python&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-SQL-000000?logo=logoColor=white&style=for-the-badge">
 
-<b>💻 Technologies and Frameworks</b>
+<b> Technologies and Frameworks</b>
 </br>
 </br>
 <img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=white&style=for-the-badge">
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Leaflet-000000?logo=leaflet&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=white&style=for-the-badge">
 
-<b>🌏 GIS</b>
+<b> Geographic Information System</b>
 </br>
 </br>
 <img src="https://img.shields.io/badge/-ArcGIS-000000?logo=arcgis&logoColor=white&style=for-the-badge">
@@ -45,7 +45,3 @@
 <img src="https://img.shields.io/badge/-Google%20Earth%20Engine-000000?logo=googleearthengine&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-GeoServer-000000?logo=logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-PostGIS-000000?logo=logoColor=white&style=for-the-badge">
-
-
-## Github Stats 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardusdavidbayuaji&layout=compact&theme=tokyonight)
