@@ -1,7 +1,7 @@
 ## Hello, my name is Gerardus David. Nice to meet you
 - I'm a Junior Software Engineer with passion for Frontend programming and GIS programming
 - I’m currently learning React.JS and Next.JS
-- I also write [articles](https://www.linkedin.com/in/gerardusdavidbayuaji/) about Web Development
+- I also write [articles](https://gerardusdavid.medium.com/) about Web Development
 - Let's discuss about Frontend Developer, GIS Developer, Smart City and Spatial Analyst
 
 ## Let's Connect!
