@@ -1,10 +1,12 @@
 ## Hello, my name is Gerardus David. Nice to meet you
 - I'm a Junior Software Engineer with passion for Frontend Programming and GIS Software Programming
-- I’m currently learning:
-  Frontend Development: **JavaScript and TypeScript (ReactJS and NextJS)**
-  Backend Development: **JavaScript and TypeScript (ExpressJS)**
-  Data Spatial Engineer: **Python**
+- I’m currently learning: **TypeScript (ReactJS and NextJS)**
 - Let's discuss about Frontend Developer and  GIS Software Developer
+
+## Weapons
+- Frontend Development: **JavaScript and TypeScript (ReactJS and NextJS)**
+- Backend Development: **JavaScript and TypeScript (ExpressJS)**
+- Data Spatial Engineer: **Python**
 
 ## Let's Connect!
 [![Gmail Badge](https://img.shields.io/badge/-gerardusdavidbayu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gerardusdavidbayu@gmail.com)](mailto:gerardusdavidbayu@gmail.com)
