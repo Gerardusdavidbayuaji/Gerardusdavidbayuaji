@@ -6,7 +6,7 @@
 ## Weapons
 - Frontend Development: **JavaScript and TypeScript (ReactJS and NextJS)**
 - Backend Development: **JavaScript and TypeScript (ExpressJS)**
-- Data Spatial Engineer: **Python**
+- Spatial Data Engineer: **Python**
 
 ## Let's Connect!
 [![Gmail Badge](https://img.shields.io/badge/-gerardusdavidbayu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gerardusdavidbayu@gmail.com)](mailto:gerardusdavidbayu@gmail.com)
