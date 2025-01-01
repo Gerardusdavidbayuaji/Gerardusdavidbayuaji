@@ -1,12 +1,12 @@
 ## Hello, my name is Gerardus David. Nice to meet you
-- I'm a Junior Software Engineer with passion for Frontend Programming and GIS Software Programming
+- I'm a Junior Software Engineer with passion for Frontend Programming 
 - I’m currently learning: **TypeScript (ReactJS and NextJS)**
-- Let's discuss about Frontend Developer and  GIS Software Developer
+- Let's discuss about Frontend Developer
 
 ## Weapons
 - Frontend Development: **JavaScript and TypeScript (ReactJS and NextJS)**
 - Backend Development: **JavaScript and TypeScript (ExpressJS)**
-- Spatial Data Engineer: **Python**
+- Data Engineer: **Python**
 
 ## Let's Connect!
 [![Gmail Badge](https://img.shields.io/badge/-gerardusdavidbayu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gerardusdavidbayu@gmail.com)](mailto:gerardusdavidbayu@gmail.com)
@@ -14,7 +14,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gerardus_David_Ady_P.B-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardusdavidbayuaji/)]()
 &nbsp;
 
-## Languages, Technologies, Frameworks and GIS 
+## Languages, Technologies, Frameworks 
 <b> Languages</b>
 </br>
 </br>
@@ -40,12 +40,3 @@
 <img src="https://img.shields.io/badge/-OpenLayers-000000?logo=openlayers&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Leaflet-000000?logo=leaflet&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=white&style=for-the-badge">
-
-<b> Geographic Information System</b>
-</br>
-</br>
-<img src="https://img.shields.io/badge/-ArcGIS-000000?logo=arcgis&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-QGIS-000000?logo=qgis&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Google%20Earth%20Engine-000000?logo=googleearthengine&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-GeoServer-000000?logo=logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-PostGIS-000000?logo=logoColor=white&style=for-the-badge">
