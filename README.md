@@ -4,7 +4,7 @@
 - Let's discuss about Frontend Developer
 
 ## Weapons
-- Frontend Development: **JavaScript and TypeScript (ReactJS and NextJS)**
+- Frontend Development: **JavaScript and TypeScript (ReactJS)**
 - Backend Development: **JavaScript and TypeScript (ExpressJS)**
 - Data Engineer: **Python**
 
