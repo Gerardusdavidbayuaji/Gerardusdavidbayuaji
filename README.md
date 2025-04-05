@@ -1,42 +1,35 @@
-## Hello, my name is Gerardus David. Nice to meet you
-- I'm a Junior Software Engineer with passion for Frontend Programming 
-- I’m currently learning: **TypeScript (ReactJS and NextJS)**
-- Let's discuss about Frontend Developer
+## Hi there 👋
 
-## Weapons
-- Frontend Development: **JavaScript and TypeScript (ReactJS)**
-- Backend Development: **JavaScript and TypeScript (ExpressJS)**
-- Data Engineer: **Python**
+![Visitor Count](https://komarev.com/ghpvc/?username=Gerardusdavidbayuaji) <br>
 
-## Let's Connect!
-[![Gmail Badge](https://img.shields.io/badge/-gerardusdavidbayu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gerardusdavidbayu@gmail.com)](mailto:gerardusdavidbayu@gmail.com)
-&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-Gerardus_David_Ady_P.B-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerardusdavidbayuaji/)]()
-&nbsp;
+I'm Gerardus David, a marine science from Brawijaya of University and currently a spatial software developer at PT Dashindo Solusi Integrasi. I mostly do front-end development, back-end development related stuff, and small bits of data science.
 
-## Languages, Technologies, Frameworks 
-<b> Languages</b>
-</br>
-</br>
-<img src="https://img.shields.io/badge/-Typescript-000000?logo=typescript&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Javascript-000000?logo=javascript&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-python-000000?logo=python&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-SQL-000000?logo=logoColor=white&style=for-the-badge">
+- LinkedIn: https://www.linkedin.com/in/gerardusdavidbayuaji/
+- HackeRank: https://www.hackerrank.com/profile/gerardusdavidba1
+- Medium: https://medium.com/@gerardusdavid
 
-<b> Technologies and Frameworks</b>
-</br>
-</br>
-<img src="https://img.shields.io/badge/-HTML-000000?logo=html5&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-CSS-000000?logo=css3&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-000000?logo=tailwindcss&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-React.Js-000000?logo=react&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Next.Js-000000?logo=Next.js&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Django-000000?logo=django&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-000000?logo=Google%20Cloud&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-OpenLayers-000000?logo=openlayers&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Leaflet-000000?logo=leaflet&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Figma-000000?logo=figma&logoColor=white&style=for-the-badge">
+## 💻 Stacks / Programming Language / Libraries / Frameworks
+
+#### Web Based:
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![mySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![mapBox](https://img.shields.io/badge/mapbox-%23000000.svg?style=for-the-badge&logo=mapbox&logoColor=white) ![leaflet](https://img.shields.io/badge/leaflet-%23199900.svg?style=for-the-badge&logo=Leaflet&logoColor=white) ![GeoServer](https://img.shields.io/badge/geoserver-%234CB05B.svg?style=for-the-badge&logo=geoserver&logoColor=white)
+
+#### Data Science / Machine Learning:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![GeoPandas](https://img.shields.io/badge/geopandas-%23139C5A.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=geopandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![FastAPI](https://img.shields.io/badge/Django-%23005571?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### 📚 Currently Learning:
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/google_cloud_platform-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+## ⚙ Tools / Platform
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## 📊 GitHub Stats / Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gerardusdavidbayuaji&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gerardusdavidbayuaji&theme=github" /> 
+</p>
