@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gerardusdavidbayuaji) <br>
 
-I'm Gerardus David, a marine science from Brawijaya of University and currently a spatial software developer at PT Dashindo Solusi Integrasi. I mostly do front-end development, back-end development related stuff, and small bits of data science.
+I graduated with a degree in Marine Science from the University of Brawijaya and completed a Frontend Developer program at Alterra Academy. I have mostly worked in frontend and backend development, with some experience in data science. Currently, I am focusing on frontend development.
 
 - LinkedIn: https://www.linkedin.com/in/gerardusdavidbayuaji/
 - HackeRank: https://www.hackerrank.com/profile/gerardusdavidba1
